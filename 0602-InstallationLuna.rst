@@ -14,7 +14,7 @@ In order to use Model Driven Development in Eclipse two specific plug-ins are re
 
 * [Acceleo](https://www.eclipse.org/acceleo/) - for code generation from models.
 
-These can be installed from the general update site for Eclipse Kepler:
+These can be installed from the general update site for Eclipse Luna:
 
 1. Go to _Help_ -> _Install new software_  and select as update site "Luna - http://download.eclipse.org/releases/luna". If the Luna update site is not yet registered click _Add..._ and insert "Luna" for the name and the address above for _Location_; then click _OK_.
 
@@ -44,7 +44,7 @@ The models generated with MDD3S depend on several libraries that must be present
 
 * [OpenCSV](http://sourceforge.net/projects/opencsv/) - contains functionality to read CSV data into models.
 
-For convenience, the JAR files for these libraries can be downloaded in a single archive from [here](http://ldesousa.github.io/DSL3S/dsl3s-dependencies.zip).
+For convenience, the JAR files for these libraries can be obtained in a single archive from [here](http://ldesousa.github.io/DSL3S/dsl3s-dependencies.zip).
 
 Unpack it to some handy place; In Debian based systems this can be _/usr/share/java_, but it can be somewhere else. To run programmes generated with MDD3S these libraries must be in the Java CLASSPATH.
 

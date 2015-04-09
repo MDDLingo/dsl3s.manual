@@ -3,7 +3,7 @@
 MDD3S relies solely on open source tools:
 
 
-*  [Papyrus](https://www.eclipse.org/papyrus/) - an Eclipse add-on for UML graphical modelling supporting the DSL3S UML profile;
+* [Papyrus](https://www.eclipse.org/papyrus/) - an Eclipse add-on for UML graphical modelling supporting the DSL3S UML profile;
 
 * [Acceleo](https://www.eclipse.org/acceleo/) - another Eclipse add-on supporting model-to-code transformations;
 

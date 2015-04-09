@@ -12,7 +12,7 @@ de Sousa, L. and da Silva, A. R., “[Preliminary Design and Implementation of D
 
 ## Approach
 
-DSL3S is an application of the [MDD](https://github.com/ldesousa/DSL3S/wiki/Model-Driven-Development) philosophy to the field of Spatial
+DSL3S is an application of the [MDD](https://github.com/MDDLingo/DSL3S/wiki/Model-Driven-Development) philosophy to the field of Spatial
 Simulation, as an alternative way to facilitate the usage of its methods by non programmers. By raising the level of abstraction at which
 development takes place, this approach can facilitate the communication between
 programmers and analysts and other stakeholders lacking programming knowledge. It can also allow prototyping by non-programmers. By
@@ -45,7 +45,7 @@ iterative process.
 
 ## Tool support
 
-[Model Driven Development for Spatial Simulation Scenarios](https://github.com/ldesousa/DSL3S/wiki/Code-generation-with-MDD3S)
+[Model Driven Development for Spatial Simulation Scenarios](https://github.com/MDDLingo/DSL3S/wiki/Code-generation-with-MDD3S)
 (MDD3S) is the name of the prototype framework developed to support the DSL3S
 language. MDD3S relies solely on open source tools: 
 
@@ -88,4 +88,4 @@ DSL3S is released under the [EUPL 1.1](http://joinup.ec.europa.eu/software/page/
 
 ## Installation
 
-Follow the [installation guide](https://github.com/ldesousa/DSL3S/wiki/Installation) to start using DSL3S. 
+Follow the [installation guide](https://github.com/MDDLingo/DSL3S/wiki/Installation) to start using DSL3S. 

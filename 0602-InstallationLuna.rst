@@ -4,7 +4,7 @@ To follow this guide and use DSL3S, [Java](https://www.java.com/en/) and [Eclips
 
 The models generated with MDD3S have been successfully tested with Java versions 6, 7 and 8. Java 5 was never tested but is likely to be functional too. Programmes generated with MDD3S are not expected to run on Java versions 4 or earlier.
 
-This installation guide is also available for [Eclipse Kepler](https://github.com/ldesousa/DSL3S/wiki/Installation-on-Eclipse-Kepler).
+This installation guide is also available for [Eclipse Kepler](https://github.com/MDDLingo/DSL3S/wiki/Installation-on-Eclipse-Kepler).
 
 ### Acceleo and Papyrus plug-ins
 

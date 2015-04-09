@@ -1,28 +1,28 @@
 Main Elements
 -------------
 
-* [Simulation](https://github.com/ldesousa/DSL3S/wiki/Simulation)
+* [Simulation](https://github.com/MDDLingo/DSL3S/wiki/Simulation)
 
-* [Spatial](https://github.com/ldesousa/DSL3S/wiki/Spatial) variable
+* [Spatial](https://github.com/MDDLingo/DSL3S/wiki/Spatial) variable
 
-* [Global](https://github.com/ldesousa/DSL3S/wiki/Global) variable
+* [Global](https://github.com/MDDLingo/DSL3S/wiki/Global) variable
 
-* [Animat](https://github.com/ldesousa/DSL3S/wiki/Animat)
+* [Animat](https://github.com/MDDLingo/DSL3S/wiki/Animat)
 
-* [Attribute](https://github.com/ldesousa/DSL3S/wiki/Attribute)
+* [Attribute](https://github.com/MDDLingo/DSL3S/wiki/Attribute)
 
 
 Animat Operations
 -----------------
 
-* [Emerge](https://github.com/ldesousa/DSL3S/wiki/Emerge)
+* [Emerge](https://github.com/MDDLingo/DSL3S/wiki/Emerge)
 
-* [Move](https://github.com/ldesousa/DSL3S/wiki/Move)
+* [Move](https://github.com/MDDLingo/DSL3S/wiki/Move)
 
-* [Replicate](https://github.com/ldesousa/DSL3S/wiki/Replicate)
+* [Replicate](https://github.com/MDDLingo/DSL3S/wiki/Replicate)
 
-* [Supply](https://github.com/ldesousa/DSL3S/wiki/Supply)
+* [Supply](https://github.com/MDDLingo/DSL3S/wiki/Supply)
 
-* [Harvest](https://github.com/ldesousa/DSL3S/wiki/Harvest)
+* [Harvest](https://github.com/MDDLingo/DSL3S/wiki/Harvest)
 
-* [Perish](https://github.com/ldesousa/DSL3S/wiki/Perish)
+* [Perish](https://github.com/MDDLingo/DSL3S/wiki/Perish)

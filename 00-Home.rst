@@ -9,3 +9,5 @@
 [The UML Profile](https://github.com/MDDLingo/DSL3S/wiki/The-UML-Profile)
 
 [Installation](https://github.com/MDDLingo/DSL3S/wiki/Installation)
+
+[Videos](https://github.com/MDDLingo/DSL3S/wiki/Videos)

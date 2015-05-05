@@ -11,3 +11,5 @@
 [Installation](https://github.com/MDDLingo/DSL3S/wiki/Installation)
 
 [Videos](https://github.com/MDDLingo/DSL3S/wiki/Videos)
+
+[Evaluation](https://github.com/MDDLingo/DSL3S/wiki/Evaluation)

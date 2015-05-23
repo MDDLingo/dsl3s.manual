@@ -18,9 +18,11 @@ These can be installed from the general update site for Eclipse Kepler:
 
 1. Go to _Help_ -> _Install new software_  and select as update site "Kepler - http://download.eclipse.org/releases/kepler". If the Kepler update site is not yet registered click _Add..._ and insert "Kepler" for the name and the address above for _Location_; then click _OK_.
 
-2. Expand the _Modelling_ item in the plug-in list and select _Acceleo_ and _Papyrus_. Click _Next_ and wait for the dependencies to be calculated. Go through the following menus and accept the Licences presented.
+2. Expand the _Modelling_ item in the plug-in list and select _Acceleo_ and _Papyrus_. Click _Next_ and wait for the dependencies to be calculated. 
+Go through the following menus and accept the Licences presented.
 
-3. After restarting, Eclipse will have a new item in the _Help_ menu: _Install Papyrus Additional Components_, click it. In the dialogue that comes up select _View Stylesheets_ and click _Next_; follow through the remaining steps and restart Eclipse again.
+3. After restarting, Eclipse will have a new item in the _Help_ menu: _Install Papyrus Additional Components_, click it. 
+In the dialogue that comes up select _View Stylesheets_ and click _Next_; follow through the remaining steps and restart Eclipse again.
 
 ### DSL3S plug-ins
 
@@ -44,9 +46,10 @@ The models generated with MDD3S depend on several libraries that must be present
 
 * [OpenCSV](http://sourceforge.net/projects/opencsv/) - contains functionality to read CSV data into models.
 
-For convenience, the JAR files for these libraries can be downloaded in a single archive from [here](http://mddlingo.github.io/DSL3S/dsl3s-dependencies.zip).
+For convenience, these libraries can be downloaded in a single archive from [here](http://mddlingo.github.io/DSL3S/dsl3s-dependencies.zip).
 
-Unpack it to some handy place; In Debian based systems this can be _/usr/share/java_, but it can be somewhere else. To run programmes generated with MDD3S these libraries must be in the Java CLASSPATH.
+Unpack the archive to some handy place where the libraries can be easily accessed. In Debian based systems this can be something like _/home/user/java_. 
+
 
 
 

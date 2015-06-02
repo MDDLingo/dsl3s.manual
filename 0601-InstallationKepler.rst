@@ -46,7 +46,7 @@ The models generated with MDD3S depend on several libraries that must be present
 
 For convenience, the JAR files for these libraries can be obtained in a single archive from [here](http://mddlingo.github.io/DSL3S/dsl3s-dependencies.zip).
 
-Unpack it to some handy place; In Debian based systems this can be _/usr/share/java_, but it can be somewhere else. To run programmes generated with MDD3S these libraries must be in the Java CLASSPATH.
+Unpack it to some handy place; In Debian based systems this can be something like _/home/user/java_.
 
 
 

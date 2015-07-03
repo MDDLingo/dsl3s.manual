@@ -1,6 +1,6 @@
 ### Pre-requisites
 
-To follow this guide and use DSL3S, [Java](https://www.java.com/en/) and [Eclipse Luna](http://www.eclipse.org/luna/) must already be present in the system. Since these are relatively common software, their installation is considered to be beyond this guide.
+To follow this guide and use DSL3S, [Java 8](https://www.java.com/en/) and [Eclipse Luna](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr2) must already be present in the system. Since these are relatively common software, their installation is considered to be beyond this guide.
 
 The models generated with MDD3S have been successfully tested with Java versions 6, 7 and 8. Java 5 was never tested but is likely to be functional too. Programmes generated with MDD3S are not expected to run on Java versions 4 or earlier.
 
